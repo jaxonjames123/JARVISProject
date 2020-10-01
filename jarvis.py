@@ -4,7 +4,7 @@ import wikipedia
 import pyttsx3
 import speech_recognition as sr
 
-client = wolframalpha.Client('4UW6LT-A3WR96V43Q')
+##client = wolframalpha.Client('API Key here')
 engine = pyttsx3.init()
 r = sr.Recognizer()
 
